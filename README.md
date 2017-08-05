@@ -14,10 +14,13 @@ A curriculum for additional learning for those graduating from the university-ba
 - That said, we are very receptive to feedback! Please submit issues if there are any problems or improvements to be made. 
 
 #### Where do I start?
-- Start at "Level 1" if you don't have a specific topic in mind that you want to take a deep dive into. We structured this curriculum to leave off where the previous curriculum ended, so we prefer taking the same step-by-step approach for learning. However, if you wanted to learn other topics, go ahead! The structure is there for those who want it, but you can hop around different topics if you want to (for instance, if you already know certain topics or if your work has you working on a particular topic or set of topics).
+- If you are employed as a developer or not looking for work, go to "Employed". If you are looking for work, go to "Looking for Work"
 
-#### Levels? This isn't Final Fantasy
-- Note that the "Levels" might not reflect the difficulty of the concepts, but rather the order of the curriculum. So, some concepts in "Level 9" might be easier to understand and implement than in "Level 3" and vice versa. 
+- ##### Employed
+	- Start at "Level 1" if you don't have a specific topic in mind that you want to take a deep dive into. We structured this curriculum to leave off where the previous curriculum ended, so we prefer taking the same step-by-step approach for learning. However, if you wanted to learn other topics, go ahead! The structure is there for those who want it, but you can hop around different topics if you want to (for instance, if you already know certain topics or if your work has you working on a particular topic or set of topics).
+
+- ##### Levels? This isn't Final Fantasy
+	- Note that the "Levels" might not reflect the difficulty of the concepts, but rather the order of the curriculum. So, some concepts in "Level 9" might be easier to understand and implement than in "Level 3" and vice versa. 
 
 #### What is the roadmap? Ie, where am I going??
 - We'll generally be following this roadmap: https://github.com/kamranahmedse/developer-roadmap, but making our own tweaks to it as we see fit. 
