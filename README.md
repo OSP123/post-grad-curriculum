@@ -1,3 +1,5 @@
+!["Logo Title Text 1"](http://i.imgur.com/LW0DeGQ.png)
+
 # Post Grad Curriculum
 A curriculum for additional learning for those graduating from the university-based coding programs. End goal is to help students go from being junior devs -> Mid-level Devs -> Senior Devs
 
@@ -17,4 +19,6 @@ A curriculum for additional learning for those graduating from the university-ba
 #### Levels? This isn't Final Fantasy
 - Note that the "Levels" might not reflect the difficulty of the concepts, but rather the order of the curriculum. So, some concepts in "Level 9" might be easier to understand and implement than in "Level 3" and vice versa. 
 
+#### What is the roadmap? Ie, where am I going??
+- We'll generally be following this roadmap: https://github.com/kamranahmedse/developer-roadmap, but making our own tweaks to it as we see fit. 
 
