@@ -29,3 +29,4 @@ Each module should have the following:
 	- Design Patterns
 	- D3
 - Git (Deep Dive)
+- Accessibility
