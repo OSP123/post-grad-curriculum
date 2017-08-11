@@ -1,0 +1,26 @@
+# Hey, Listen! 
+
+## This is the style guide for how each module should be written. Uniformity leads to ease of transition between each module. 
+
+Each module should have the following: 
+1. Prerequisites for this module.
+2. Estimated time to complete this module.
+3. Table of contents for this module.
+4. Summary/Overview of module.
+5. Author notes for this module.
+6. Links to external resources.
+
+Topics Covered:
+
+- Package Management
+- Testing
+- Frameworks
+- Security
+- APIs
+- Authentication
+- Storage 
+	- Databases
+	- Caching
+- Search Engines
+- Design Patterns
+- Git (Deep Dive) 
