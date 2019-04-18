@@ -3,17 +3,17 @@
 # Post Grad Curriculum
 A curriculum for additional learning for those graduating from the university-based coding programs. End goal is to help students go from being junior devs -> Mid-level Devs -> Senior Devs
 
-### Contributors
+## Contributors
 - Please fork the repo and make a pull request when submitting your code. That's it!
 - Project management is done via Zenhub board, with tracking being done via Github issues.
 
 ------------------------------------------------------------------------------
 
-### Recipients
+## Recipients
 - Please note that this is entirely built on the efforts of developers voluntarily putting their own time in. We hope you enjoy our efforts!
 - That said, we are very receptive to feedback! Please submit issues if there are any problems or improvements to be made. 
 
-### Where do I start?
+## Where do I start?
   - Before we start determining what step you should work on next, here are some bits of advice that are universal after graduating: 
 
 	1. MOST IMPORTANTLY: **NEVER STOP CODING**
@@ -24,7 +24,7 @@ A curriculum for additional learning for those graduating from the university-ba
   - To help you get comfortable with doing the above you can start with the other parts below.
 
 
-#### Part 1: If you haven’t completed career assets, finish those first
+### Part 1: If you haven’t completed career assets, finish those first
 
   1. Linkedin: https://cstrilogy.gitbooks.io/career-services-resource-library/polish-your-linkedin-profile.html 
   2. Github: https://cstrilogy.gitbooks.io/career-services-resource-library/polishing-your-portfolio-github-and-linkedin-accounts/github-criteria.html
@@ -35,7 +35,7 @@ A curriculum for additional learning for those graduating from the university-ba
 
 Note: Time should first be spent on finishing career assets before applying to jobs.
 
-#### Part 2: If you have completed career assets, but feel you don’t have a base understanding of the material. This could be where code drills from Jerome would really help out.
+### Part 2: If you have completed career assets, but feel you don’t have a base understanding of the material.
   1. Go through the material you feel behind on by checking the topics you still don’t grasp: https://drive.google.com/file/d/0BzZc9xnaQ0vqcWVEd3hPcHRhQTg/view?usp=sharing
   2. In order to get practice with the concepts you feel behind on, do the following:
   3. Redo in-class exercises without looking at the answers
@@ -48,7 +48,7 @@ Note: Time should first be spent on finishing career assets before applying to j
      - Time spent on interview prep: 20%
      - Time spent on practicing code: 50%
 
-#### Part 3: If you feel OK with the fundamentals, but not sure what to do next
+### Part 3: If you feel at least OK with the fundamentals, but not sure what to do next
    1. If you feel that you have the fundamentals of the program down, it's now time to start learning more advanced topics and adding those concepts to the applications you build.
       1. Start at "Level 1" if you don't have a specific topic in mind that you want to take a deep dive into. We structured this curriculum to leave off where the previous curriculum ended, so we prefer taking the same step-by-step approach for learning. However, if you wanted to learn other topics, go ahead! The structure is there for those who want it, but you can hop around different topics if you want to (for instance, if you already know certain topics or if your work has you working on a particular topic or set of topics).
 	  -	Note that the "Levels" might not reflect the difficulty of the concepts, but rather the order of the curriculum. So, some concepts in "Level 9" might be easier to understand and implement than in "Level 3" and vice versa. 
