@@ -40,17 +40,17 @@ Note: Time should first be spent on finishing career assets before applying to j
 ### Part 2: If you have completed career assets, but feel you don’t have a base understanding of the material.
   <img width="400" src="https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif">
 
-  1. Go through the material you feel behind on by checking the topics you still don’t grasp: https://drive.google.com/file/d/0BzZc9xnaQ0vqcWVEd3hPcHRhQTg/view?usp=sharing
+  1. Go through the material you feel behind on by checking the topics you still don’t grasp: [Topics](https://drive.google.com/file/d/0BzZc9xnaQ0vqcWVEd3hPcHRhQTg/view?usp=sharing)
   2. In order to get practice with the concepts you feel behind on, do the following:
-  3. Redo in-class exercises without looking at the answers
-  4. Complete the Code Drills from Jerome Chennete’s set of Code Drills: https://github.com/jeromechenette/coding-bootcamp-post-bootcamp#post-coding-boot-camp
-     - This is very comprehensive and a lot of work was put into building out the code drills by Jerome Chennette, an Instructor at UC Berkeley Coding Bootcamp.
-  5. Apply to positions that are more in line with the concepts you do feel stronger in. For example, if you feel strong in front end development, apply to jobs in front end development.
-  6. Practice for interviewing by completing algorithms on the whiteboard. Here is a resource we've developed for whiteboard and interview prep: gitbook.com/read/book/the-coding-bootcamp/pre-work-book?key=CodingRocksAJ16 (make sure to have the kay-value pair in the query params or it won't work!)
-  7. Time breakdown:
+     1. Redo in-class exercises without looking at the answers
+     2. Complete the Code Drills from [Jerome Chennete’s set of Code Drills](https://github.com/jeromechenette/coding-bootcamp-post-bootcamp#post-coding-boot-camp)
+        - This is very comprehensive and a lot of work was put into building out the code drills by Jerome Chennette, an Instructor at UC Berkeley Coding Bootcamp.
+  3. Apply to positions that are more in line with the concepts you do feel stronger in. For example, if you feel strong in front end development, apply to jobs in front end development.
+  4. Practice for interviewing by completing algorithms on the whiteboard. Here is a resource we've developed for [whiteboard and interview prep](gitbook.com/read/book/the-coding-bootcamp/pre-work-book?key=CodingRocksAJ16) (make sure to have the key-value pair in the query params or it won't work!)
+  5. Time breakdown:
      - Time spent on applying to jobs that you do feel comfortable with: 30%
      - Time spent on interview prep: 20%
-     - Time spent on practicing code: 50%
+     - Time spent on practicing code (code drills and redoing in-class exercises): 50%
 
 ### Part 3: If you feel at least OK with the fundamentals, but not sure what to do next
   <img width="400" src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif">
@@ -59,7 +59,7 @@ Note: Time should first be spent on finishing career assets before applying to j
       1. Start at "Level 1" if you don't have a specific topic in mind that you want to take a deep dive into. We structured this curriculum to leave off where the previous curriculum ended, so we prefer taking the same step-by-step approach for learning. However, if you wanted to learn other topics, go ahead! The structure is there for those who want it, but you can hop around different topics if you want to (for instance, if you already know certain topics or if your work has you working on a particular topic or set of topics).
 	  -	Note that the "Levels" might not reflect the difficulty of the concepts, but rather the order of the curriculum. So, some concepts in "Level 9" might be easier to understand and implement than in "Level 3" and vice versa. 
 	  - What is the roadmap? Ie, where am I going??
-        - We'll generally be following this roadmap: https://github.com/kamranahmedse/developer-roadmap, but making our own tweaks to it as we see fit. 
+        - We'll generally be following this [roadmap](https://github.com/kamranahmedse/developer-roadmap), but making our own tweaks to it as we see fit. 
    1. Practice for interviewing by completing algorithms on the whiteboard. Here is a resource we've developed for whiteboard and interview prep: gitbook.com/read/book/the-coding-bootcamp/pre-work-book?key=CodingRocksAJ16 (make sure to have the kay-value pair in the query params or it won't work!)
    2. Time breakdown:
       - Time spent on applying to jobs that more or less match your skill level: 50%
