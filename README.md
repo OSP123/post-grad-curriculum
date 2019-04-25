@@ -46,7 +46,7 @@ Note: Time should first be spent on finishing career assets before applying to j
      2. Complete the Code Drills from [Jerome Chennete’s set of Code Drills](https://github.com/jeromechenette/coding-bootcamp-post-bootcamp#post-coding-boot-camp)
         - This is very comprehensive and a lot of work was put into building out the code drills by Jerome Chennette, an Instructor at UC Berkeley Coding Bootcamp.
   3. **Apply to positions** that are more in line with the concepts you do feel stronger in. For example, if you feel strong in front end development, apply to jobs in front end development.
-  4. **Practice for interviewing** by completing algorithms on the whiteboard. Here is a resource we've developed for [whiteboard and interview prep](https://gitbook.com/read/book/the-coding-bootcamp/pre-work-book?key=CodingRocksAJ16) (make sure to have the key-value pair in the query params or it won't work!)
+  4. **Practice for interviewing** by completing algorithms on the whiteboard. Here is a resource we've developed for [whiteboard and interview prep](https://www.gitbook.com/read/book/the-coding-bootcamp/whiteboarding-algorithms-and-interview-questions?key=technicalInterview) (make sure to have the key-value pair in the query params or it won't work!)
   5. **Time breakdown**:
      - Time spent on applying to jobs that you do feel comfortable with: 30%
      - Time spent on interview prep: 20%
@@ -60,7 +60,7 @@ Note: Time should first be spent on finishing career assets before applying to j
       - **Where to start**? Start at "Level 1" if you don't have a specific topic in mind that you want to take a deep dive into. We structured this curriculum to leave off where the previous curriculum ended, so we prefer taking the same step-by-step approach for learning. However, if you wanted to learn other topics, go ahead! The structure is there for those who want it, but you can hop around different topics if you want to (for instance, if you already know certain topics or if your work has you working on a particular topic or set of topics).
 	    - **What is the roadmap**? Ie, where am I going??
          - We'll generally be following this [roadmap](https://github.com/kamranahmedse/developer-roadmap), but making our own tweaks to it as we see fit. 
-   2. Practice for interviewing by completing algorithms on the whiteboard. Here is a resource we've developed for [whiteboard and interview prep](https://gitbook.com/read/book/the-coding-bootcamp/pre-work-book?key=CodingRocksAJ16) (make sure to have the kay-value pair in the query params or it won't work!)
+   2. Practice for interviewing by completing algorithms on the whiteboard. Here is a resource we've developed for [whiteboard and interview prep](https://www.gitbook.com/read/book/the-coding-bootcamp/whiteboarding-algorithms-and-interview-questions?key=technicalInterview) (make sure to have the kay-value pair in the query params or it won't work!)
    3. **Time breakdown**:
       - Time spent on applying to jobs that more or less match your skill level: 50%
       - Time spent on interview prep: 20%
