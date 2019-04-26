@@ -23,17 +23,17 @@ A curriculum for additional learning for those graduating from the university-ba
 	3. Practice small coding challenges - This is a good practice you can do daily and will keep your skills fresh.
 	4. Programming is like a foreign language, if you don’t use it and practice it normally, it will be harder to get back into it.
    
-  - To help you get comfortable with doing the above you can start with the other parts below.
+  - To help you get comfortable with doing the above you can start with the parts below.
 
 ### Part 1: If you haven’t completed career assets, finish those first
   <img width="400" src="https://media.giphy.com/media/GpvGNDIruGFQk/giphy.gif">
 
-  1. **Linkedin**: https://cstrilogy.gitbooks.io/career-services-resource-library/polish-your-linkedin-profile.html 
-  2. **Github**: https://cstrilogy.gitbooks.io/career-services-resource-library/polishing-your-portfolio-github-and-linkedin-accounts/github-criteria.html
-     1. Additionally, your **readme** can follow the following guidelines: https://www.makeareadme.com/ 
+  1. [Polish your LinkedIn Profile](https://cstrilogy.gitbooks.io/career-services-resource-library/polish-your-linkedin-profile.html) 
+  2. [Polish your Github](https://cstrilogy.gitbooks.io/career-services-resource-library/polishing-your-portfolio-github-and-linkedin-accounts/github-criteria.html)
+     1. Additionally, your **readme** can follow the following [guidelines](https://www.makeareadme.com/)
      2. We would also recommend having a gif of your application running placed into the readme for employers to see what your application does fairly easily. 
-  3. **Resume**: https://cstrilogy.gitbooks.io/career-services-resource-library/ft-web-dev-materials.html 
-  4. **Portfolio**: https://cstrilogy.gitbooks.io/career-services-resource-library/polishing-your-portfolio-github-and-linkedin-accounts.html 
+  3. [Improve your Resume](https://cstrilogy.gitbooks.io/career-services-resource-library/ft-web-dev-materials.html)
+  4. [Polish your Portfolio](https://cstrilogy.gitbooks.io/career-services-resource-library/polishing-your-portfolio-github-and-linkedin-accounts.html)
 
 Note: Time should first be spent on finishing career assets before applying to jobs.
 
@@ -44,7 +44,7 @@ Note: Time should first be spent on finishing career assets before applying to j
   2. In order to get practice with the concepts you feel behind on, do the following:
      1. Redo in-class exercises without looking at the answers
      2. Complete the Code Drills from [Jerome Chennete’s set of Code Drills](https://github.com/jeromechenette/coding-bootcamp-post-bootcamp#post-coding-boot-camp)
-        - This is very comprehensive and a lot of work was put into building out the code drills by Jerome Chennette, an Instructor at UC Berkeley Coding Bootcamp.
+        - Credit to Jerome Chennette!
   3. **Apply to positions** that are more in line with the concepts you do feel stronger in. For example, if you feel strong in front end development, apply to jobs in front end development.
   4. **Practice for interviewing** by completing algorithms on the whiteboard. Here is a resource we've developed for [whiteboard and interview prep](https://www.gitbook.com/read/book/the-coding-bootcamp/whiteboarding-algorithms-and-interview-questions?key=technicalInterview) (make sure to have the key-value pair in the query params or it won't work!)
   5. **Time breakdown**:
@@ -62,6 +62,6 @@ Note: Time should first be spent on finishing career assets before applying to j
          - We'll generally be following this [roadmap](https://github.com/kamranahmedse/developer-roadmap), but making our own tweaks to it as we see fit. 
    2. Practice for interviewing by completing algorithms on the whiteboard. Here is a resource we've developed for [whiteboard and interview prep](https://www.gitbook.com/read/book/the-coding-bootcamp/whiteboarding-algorithms-and-interview-questions?key=technicalInterview) (make sure to have the kay-value pair in the query params or it won't work!)
    3. **Time breakdown**:
-      - Time spent on applying to jobs that more or less match your skill level: 50%
+      - Time spent on applying to jobs that more or less match your skill level: 30%
       - Time spent on interview prep: 20%
-      - Time spent on practicing code: 30%
+      - Time spent on practicing code (leveling up!): 50%
