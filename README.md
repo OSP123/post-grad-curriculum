@@ -1,7 +1,7 @@
 !["Logo Title Text 1"](http://i.imgur.com/LW0DeGQ.png)
 
 # Post Grad Curriculum
-A curriculum for additional learning for those graduating from the university-based coding programs. End goal is to help students go from being junior devs -> Mid-level Devs -> Senior Devs
+A curriculum for additional learning for those graduating from the university-based coding programs. End goal is to help graduates get their first jobs via skills increase and guide them towards the path of Junior Developer -> Mid-level Developer -> Senior Developer
 
 ## Contributors
 - Please fork the repo and make a pull request when submitting your code. That's it!
