@@ -25,19 +25,14 @@ A curriculum for additional learning for those graduating from the university-ba
    
   - To help you get comfortable with doing the above you can start with the parts below.
 
-### Part 1: If you haven’t completed career assets, finish those first
+### Part 1: If you haven't become Employer Ready, do that first
   <img width="400" src="https://media.giphy.com/media/GpvGNDIruGFQk/giphy.gif">
 
-  1. [Polish your LinkedIn Profile](https://cstrilogy.gitbooks.io/career-services-resource-library/polish-your-linkedin-profile.html) 
-  2. [Polish your Github](https://cstrilogy.gitbooks.io/career-services-resource-library/polishing-your-portfolio-github-and-linkedin-accounts/github-criteria.html)
-     1. Additionally, your **readme** can follow the following [guidelines](https://www.makeareadme.com/)
-     2. We would also recommend having a gif of your application running placed into the readme for employers to see what your application does fairly easily. 
-  3. [Improve your Resume](https://cstrilogy.gitbooks.io/career-services-resource-library/ft-web-dev-materials.html)
-  4. [Polish your Portfolio](https://cstrilogy.gitbooks.io/career-services-resource-library/polishing-your-portfolio-github-and-linkedin-accounts.html)
+  - Go through the milestones from the [Career Services Page](https://www.bootcampspot.com/career-services) to find all the resources related to becoming Employer Ready.
 
 Note: Time should first be spent on finishing career assets before applying to jobs.
 
-### Part 2: If you have completed career assets, but feel you don’t have a base understanding of the material.
+### Part 2: If you have become Employer Ready, but feel you don’t have a base understanding of the material.
   <img width="400" src="https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif">
 
   1. **Go through the material you feel behind on** by checking the topics you still don’t grasp: [Topics](https://drive.google.com/file/d/0BzZc9xnaQ0vqcWVEd3hPcHRhQTg/view?usp=sharing)
