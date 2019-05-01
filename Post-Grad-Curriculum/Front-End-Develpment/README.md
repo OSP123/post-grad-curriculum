@@ -32,6 +32,6 @@ Each module should have the following:
 	- Module Loader/Bundler
 	- Regex
 	- Design Patterns
-	- D3
-- Git (Deep Dive)
-- Accessibility
+	- Data Visualization
+    - Git (Deep Dive)
+    - Accessibility
