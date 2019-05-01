@@ -1,7 +1,7 @@
 # Post-Grad Curriculum
 
 ## So, you've decided to level up, eh? Good on you! We've developed some structure for you based on the paths you decide to take.
-<img width="400" src="https://commons.wikimedia.org/wiki/File:Level_up_circulo.png">
+<img width="400" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Level_up_circulo.png">
 
 - We're generally going to be using the roadmap from [Kamran](https://github.com/kamranahmedse/developer-roadmap). This is just going to be a guideline, so don't worry about needing to learn all of this in order to be a developer! The roadmap is just there to help guide us towards what technologies we can learn depending on your path.
 
@@ -27,7 +27,7 @@
       6. Regex
       7. Design Patterns
       8. Data Visualization
-      9. Git (Deep Dive)
+   4. Git (Deep Dive)
 
 2. Back-End-Development: Focuses on those wanting to go deeper into Back-End Development. This includes topics such as:
    1.  Back End Languages
