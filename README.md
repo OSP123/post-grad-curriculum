@@ -98,8 +98,8 @@ Go through the milestones from the [Career Services Page](https://www.bootcampsp
 
       If you don't have a specific topic in mind that you want to take a deep dive on start at `Level 1`.
   
-        - [Front End Dev](/Post-Grad-Curriculum/Front-End-Develpment/)
-        - [Back End Dev](/Post-Grad-Curriculum/Back-End-Develpment/)
+        - [Front End Dev](/Post-Grad-Curriculum/Front-End-Development/)
+        - [Back End Dev](/Post-Grad-Curriculum/Back-End-Development/)
         - [Dev Ops](/Post-Grad-Curriculum/Dev-Ops/)
   
       We structured this curriculum to leave off where the previous curriculum ended, so we prefer taking the same step-by-step approach for learning. However, if you wanted to learn other topics, go ahead! The structure is there for those who want it, but you can hop around different topics if you want to (for instance, if you already know certain topics or if your work has you working on a particular topic or set of topics).
