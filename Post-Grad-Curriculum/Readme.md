@@ -12,11 +12,12 @@
 
 1. Front-End-Development: Focuses on those wanting to go deeper into Front-End Development. This includes topics such as 
    1. HTML
-      1. Canvas
-      2. Deep Dive
+      1. Writing Semantic HTML
+      2. Basic SEO
+      3. Accessibility
    2. CSS
-      1. Preprocessors
-      2. Frameworks
+      1. Preprocessors - LESS, SASS, PostCSS
+      2. Frameworks - Bootstrap, Materialize, Bulma, Semantic UI
       3. Deep Dive
    3. JavaScript
       1. Task Runners

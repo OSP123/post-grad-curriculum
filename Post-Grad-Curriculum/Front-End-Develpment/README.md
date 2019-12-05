@@ -18,11 +18,12 @@ Each module should have the following:
 ## Topics
 
 - HTML
-	- Canvas
-	- HTML5 Video and Audio
+  1. Writing Semantic HTML
+  2. Basic SEO
+  3. Accessibility
 - CSS
-	- Preprocessors
-	- Frameworks
+	- Preprocessors - PostCSS, SASS, Less
+	- Frameworks - Bootstrap, Materialize, Bulma, Semantic UI
 	- Deep Dive
 - JavaScript
 	- Task Runners
